@@ -1,0 +1,49 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR PRAGATI PROTOTYPE DEMONSTRATION ONLY
+
+DETAILED PROJECT REPORT
+Speciality Chemical Formulation Unit — Mukesh Chemicals Private Limited
+Prepared by: Deccan Process Consultants (fictional), August 2026
+
+1. PROJECT SUMMARY
+   Location: Plot 18, Chakan Industrial Area Phase II, MIDC, Pune, Maharashtra
+   Product: Speciality chemical formulations and blends (industrial coatings additives, solvent blends)
+   Capacity: 6,000 tonnes per annum
+   Total project cost: Rs. 35 crore (Plant and machinery Rs. 21 crore; Building Rs. 9 crore; Other Rs. 5 crore)
+   Employment: 150 persons (110 direct, 40 contract)
+   Pollution category (self-assessed per MPCB list): RED
+   Stage: Pre-establishment; building plan approved; construction to begin October 2026
+
+2. PROCESS FLOW (summary)
+   Raw material receipt -> solvent storage tank farm -> weighing and charging -> reactor blending (4 x 10 KL)
+   -> filtration -> quality testing -> drum filling -> finished goods warehouse.
+   Process flow diagram: Annexure A.
+
+3. FACTORY LAYOUT
+   Production block 3,200 sq m; tank farm 600 sq m; warehouse 2,400 sq m; ETP 400 sq m; boiler house 150 sq m;
+   administrative block 800 sq m. Layout drawing: Annexure B (Drawing DPC/MC/L-01 Rev 2).
+
+4. UTILITIES
+   Water demand: 25 kilolitres per day (process 14 KLD, boiler 6 KLD, domestic 5 KLD). Source: MIDC supply.
+   Wastewater: Effluent treatment plant of 30 KLD capacity (primary, secondary, tertiary); zero liquid discharge target.
+   Power: 1.2 MW connected load, high-tension 22 kV supply from MSEDCL.
+   Steam: One IBR-registered oil/gas-fired boiler, 2 TPH, 10.5 kg/cm2, manufacturer Sahyadri Thermal Works (fictional).
+          Boiler manufacturer's inspection certificate (Form II): NOT YET RECEIVED from the manufacturer.
+
+5. HAZARDOUS MATERIALS INVENTORY (maximum storage)
+   Toluene 40 KL (Class A petroleum); Methanol 20 KL; Xylene 15 KL; Acetone 10 KL — stored in underground and
+   above-ground tanks within the tank farm. Total Class A petroleum storage 85 KL.
+
+6. SAFETY SYSTEMS PROPOSAL
+   Flameproof electrical fittings in Zone 1 areas; nitrogen blanketing on solvent tanks; foam-based fire suppression
+   at the tank farm; hydrant ring main with 2 x 273 m3/hr pumps; gas detectors; earthing and bonding for all tanks.
+
+7. OCCUPATIONAL SAFETY PLAN
+   Safety officer appointed; PPE matrix per area; permit-to-work system; quarterly mock drills; medical checks for
+   solvent-exposed workers (occupational health centre on site).
+
+8. HAZARDOUS WASTE
+   ETP sludge about 4 tonnes/year; spent solvent about 12 KL/year (to an authorised recycler);
+   discarded containers about 2,000 nos/year. Treatment and disposal plan: Annexure C.
+
+9. MACHINERY DETAILS
+   4 reactors (SS 316, 10 KL), 2 filter presses, 3 drum filling lines, 1 boiler (2 TPH), 1 DG set 500 kVA.

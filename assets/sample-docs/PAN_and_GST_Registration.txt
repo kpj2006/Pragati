@@ -1,0 +1,21 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR PRAGATI PROTOTYPE DEMONSTRATION ONLY
+
+FORM GST REG-06 — REGISTRATION CERTIFICATE
+Government of India
+
+Registration Number (GSTIN): 27AABCM4821K1Z5
+1. Legal Name: MUKESH CHEMICALS PRIVATE LIMITED
+2. Trade Name: Mukesh Chemicals
+3. Constitution of Business: Private Limited Company
+4. Address of Principal Place of Business: Plot 18, Chakan Industrial Area Phase II, MIDC, Taluka Khed, Pune, Maharashtra 410501
+5. Date of Liability: 01 April 2024
+6. Period of Validity: From 01 April 2024 — valid until cancelled
+7. Type of Registration: Regular
+8. Approving Authority: Assistant Commissioner, State Tax, Pune
+Date of issue of certificate: 11 April 2024
+
+ANNEXURE — PAN DETAILS (as linked to registration)
+PAN: AABCM4821K
+Name as per PAN: MUKESH CHEMICALS PRIVATE LIMITED
+Date of incorporation as per PAN: 04 March 2024
+Status: Company

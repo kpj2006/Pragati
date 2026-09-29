@@ -1,0 +1,23 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR PRAGATI PROTOTYPE DEMONSTRATION ONLY
+
+FIRE PROTECTION AND LIFE SAFETY PLAN — REVISION 2
+Premises: Mukesh Chemicals Private Limited, Plot 18, Chakan Industrial Area Phase II, MIDC, Pune
+Occupancy classification: Industrial — high hazard (solvent storage)
+Prepared by: Firesafe Engineering Services (fictional), 12 September 2026
+
+1. Fire water storage: 900 m3 underground tank (two compartments)
+2. Pumps: main electric 273 m3/hr, diesel standby 273 m3/hr, jockey pump 10.8 m3/hr
+3. Hydrant system: ring main around the production block and tank farm, 18 external hydrants
+4. Sprinklers: warehouse and production block
+5. Foam system: fixed foam pourers on all solvent tanks
+6. Detection: addressable fire alarm panel, smoke and heat detectors, flame detectors at the tank farm
+7. Means of escape: 4 exits from the production block, maximum travel distance 30 m
+8. Drawings: FP-01 to FP-06 enclosed
+
+DECLARATION
+I certify that this plan has been prepared in accordance with applicable fire safety norms.
+
+Licensed fire consultant: ______________________   (SIGNATURE NOT PROVIDED)
+Licence No.: FSC/MH/2211 (fictional)
+Stamp: [not affixed]
+Date: ____________

@@ -1,0 +1,18 @@
+SAMPLE DOCUMENT — FICTIONAL, FOR PRAGATI PROTOTYPE DEMONSTRATION ONLY
+(Hand this over after the agent flags the missing boiler Form II.)
+
+FORM II — CERTIFICATE OF MANUFACTURE AND TEST (BOILER)
+Manufacturer: Sahyadri Thermal Works (fictional), Satara, Maharashtra
+Purchaser: Mukesh Chemicals Private Limited, Plot 18, Chakan Industrial Area Phase II, MIDC, Pune
+
+Boiler type: Oil/gas-fired, three-pass, fire-tube
+Maker's number: STW/2026/0418
+Evaporation capacity: 2 tonnes per hour
+Maximum working pressure: 10.5 kg/cm2
+Hydraulic test pressure: 15.75 kg/cm2 — tested and found satisfactory on 22 September 2026
+Inspecting authority: Third-party inspecting authority (fictional), witnessed by R. Joshi
+
+We certify that the boiler described above was manufactured and tested as stated.
+
+For Sahyadri Thermal Works: Works Manager (signed)
+Inspector: R. Joshi (signed)            Date of issue: 24 September 2026
