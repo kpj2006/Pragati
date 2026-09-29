@@ -1,5 +1,10 @@
 {
-  "functions": {
-    "api/agent.js": { "maxDuration": 300 }
-  }
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "builds": [
+    { "src": "api/agent.js", "use": "@vercel/node" },
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "styles.css", "use": "@vercel/static" },
+    { "src": "src/**", "use": "@vercel/static" },
+    { "src": "assets/**", "use": "@vercel/static" }
+  ]
 }
