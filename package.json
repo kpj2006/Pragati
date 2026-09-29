@@ -1,0 +1,14 @@
+{
+  "name": "pragati-industrial-orchestration",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "dependencies": {
+    "@google/genai": "^2.24.0"
+  }
+}
